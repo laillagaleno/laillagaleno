@@ -1,15 +1,10 @@
-### Hi there 👋
+### Olá Mundo! 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 Atualmente estou aprendendo React, Python e Node
+- 👯 Sou colaboradora do projeto Mermãs Digitais
+- 🤔 Figma é meu "caderno de rabiscos"
+- 📫 Não sou uma gamer, mas gosto de criar jogos 
+- ⚡ Viciada em fazer roupas de crochê 
 
 <div align="center">
   <a href="https://github.com/laillagaleno">
@@ -43,7 +38,7 @@ Here are some ideas to get you started:
 
   ##
   
-<div> 
+<div align="center" > 
   <a href="https://instagram.com/lailla_ga" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:laillagalenoitz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
