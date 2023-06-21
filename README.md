@@ -37,7 +37,7 @@
 <div align="center" > 
   <a href = "mailto:laillagalenoitz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lailla-galeno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.figma.com/@designprojects" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a> 
+  <a href="https://www.figma.com/@laillagaleno" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/laillagaleno/laillagaleno/blob/output/github-contribution-grid-snake.svg)
  
