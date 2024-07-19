@@ -1,11 +1,8 @@
 ### Olá Mundo! 👋
 
 #### DEVaneios: 
-- 🌱 Atualmente estou aprendendo React, JavaScript e SQL
+- 🌱 Atualmente estou aprendendo React e JavaScript
 - 👯 Sou colaboradora do projeto Mermãs Digitais e artesã nas horas vagas
-- 🤔 Uma pessoa compulsiva em criar telas 
-- :sunglasses: Antes desenhava, agora Figma é meu "caderno de rabiscos"
-- ⚡ Hobbies: Viciada em fazer roupas de crochê e escutar a mesma playlist o tempo todo 
 
 <div align="center">
   <a href="https://github.com/laillagaleno">
